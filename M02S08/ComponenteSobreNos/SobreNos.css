@@ -1,0 +1,34 @@
+article section{
+  margin: 25px;
+}
+article section figure{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10px
+    margin-buttom: 10px;
+
+}
+article section figure img{
+  border-radius:10px;
+  max-width: 100%;
+}
+article section figure figcaption{
+  margin: 10px;
+  color: #5d5d5d;
+}
+article section h2{
+  margin-bottom: 10px;
+  color: #008040;
+}
+
+p{
+  padding: 15px;
+}
+p h3{
+  color: #008040
+}
+p ul{
+  padding: 15px;
+}
