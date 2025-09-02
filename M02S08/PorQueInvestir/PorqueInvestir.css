@@ -1,0 +1,17 @@
+ .box{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  align-items: flex-start;
+  flex-direction: row;
+   border-radius: 10px;
+
+}
+.box-item{
+  border-left: 5px solid #008040;
+  border-radius: 10px;
+  padding: 10px;
+  transition: 0.1s ease-in-out all;
+  width: calc((100% - 20px) / 3);
+  background: #cbf0b9;
+}
